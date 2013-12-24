@@ -1,2 +1,0 @@
-haskell-query-language
-======================
